@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Car Price Prediction Case Study
+Car Price Prediction Case Study Regression
